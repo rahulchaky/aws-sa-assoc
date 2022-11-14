@@ -10,4 +10,4 @@ Notes/Files Related to Studying for AWS Solutions Architect Associate Certificat
 
 [Table of Contents](notes/README.md)
 
-Course Link: [learn.cantrill.io](learn.cantrill.io)
+Course Link: [learn.cantrill.io](https://learn.cantrill.io)
