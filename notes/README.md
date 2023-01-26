@@ -1,29 +1,29 @@
 # AWS Certified Solutions Architect - Associate (SAA-C03) Course Notes
 
 ## Table of Contents
-- Course Fundamentals and AWS Accounts
-- Cloud Computing Fundamentals
-- Tech Fundamentals
-- AWS Fundamentals
-- IAM, Accounts, and AWS Organizations
-- Simple Storage Service (S3)
-- Virtual Private Cloud (VPC) Basics
-- Elastic Compute Cloud (EC2) Basics
-- Containers and ECS
-- Advanced EC2
-- Route 53 - Global DNS
-- Relational Database Service (RDS)
-- Network Storage and Data Lifecycle
-- HA and Scaling
-- Serverless and Application Services
-- Global Content Delivery and Optimization
-- Advanced VPC Networking
-- Hybrid Environments and Migration
-- Security, Deployment, and Operations
-- Infrastructure as Code (CloudFormation)
-- NoSQL Databases and DynamoDB
-- Machine Learning 101
-- Other Services and Features
-- Exam Practice
+1. [Course Fundamentals and AWS Accounts](1.md)
+2. [Cloud Computing Fundamentals]()
+3. [Tech Fundamentals]()
+4. [AWS Fundamentals]()
+5. [IAM, Accounts, and AWS Organizations]()
+6. [Simple Storage Service (S3)]()
+7. [Virtual Private Cloud (VPC) Basics]()
+8. [Elastic Compute Cloud (EC2) Basics]()
+9. [Containers and ECS]()
+10. [Advanced EC2]()
+11. [Route 53 - Global DNS]()
+12. [Relational Database Service (RDS)]()
+13. [Network Storage and Data Lifecycle]()
+14. [HA and Scaling]()
+15. [Serverless and Application Services]()
+16. [Global Content Delivery and Optimization]()
+17. [Advanced VPC Networking]()
+18. [Hybrid Environments and Migration]()
+19. [Security, Deployment, and Operations]()
+20. [Infrastructure as Code (CloudFormation)]()
+21. [NoSQL Databases and DynamoDB]()
+22. [Machine Learning 101]()
+23. [Other Services and Features]()
+24. [Exam Practice]()
 
 [Home](../README.md)
